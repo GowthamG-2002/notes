@@ -1,0 +1,13 @@
+Datasheet:
+AHB1 bus - the starting address is A .
+GPIO A , GPIOB- have 7 regiters.
+inS
+•): all registers have to give the addresses.
+•) the base address of the register
+•) offset of the regiter.
+Lightw
+→ 1 addres have 8 byte - byte
+adaressable
+The Numbers are convert , when the pointes (typecast) to unsigned integer known as address.
+the value in an address is represented
+by （*）
