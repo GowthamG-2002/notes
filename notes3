@@ -11,3 +11,21 @@ eх:
 0XFI23 1111,0001,0010,0011.
 
 peripheral → 0x4000 0000
+se - Starting address
+→ ofset
+AJaS
+*) Base + ofset + tarling
+address
+# define PERIPHERAL BASE
+# define AHB1 PERIPHERAL - OFFSET
+
+# define GPIDA - BASE
+
+Peripheral:
+GIPIO which hase address for Space
+→ the space has registers.
+→ In previous program we called the already present Aspare value are going to asign our sun @tructure.
+→ addres are
+found in tabde
+* GPIDA to GPIDH has the came memory register but different addres
+*) Base (starting)
