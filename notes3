@@ -29,3 +29,13 @@ GIPIO which hase address for Space
 found in tabde
 * GPIDA to GPIDH has the came memory register but different addres
 *) Base (starting)
+
+each moves by Step as byte addressable → 8x40=132bit
+
+# define RCC - OFFSET（0✕ 3800 02）
+# define RCC _ BASE (AHBIPERI-BASE +FCC-OFFSET)
+# define RCC_ AHBIEN - R
+(can change don't optimize)
+(*volatile unsigned int *)
+(RCC-BASE + AHBJEN _ R.OĐ
+(changes the no to the address using pointer)
