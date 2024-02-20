@@ -11,3 +11,13 @@ adaressable
 The Numbers are convert , when the pointes (typecast) to unsigned integer known as address.
 the value in an address is represented
 by （*）
+ TYPEDEF:
+- IO → Represente volatile.
+*) it is a structure, used to Create a variable with GPIO _ Typedef
+*) GPIO A → pointer to the Structure.
+(GPIO - typedef *) declared in pointer.
+LED :
+      make file(or) multiple file
+LED . h
+LED. C 
+main. c
