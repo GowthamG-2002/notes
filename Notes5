@@ -1,0 +1,79 @@
+communications:
+    Serial communications
+         sender -> recieverl
+
+    Parallel communications
+         sender -> Reciever
+
+*) Protocols → set of mules
+
+*) Parallel: 8-bit data is transformed the smae time.
+
+*) serial : 8-bit data is transformed one bit at the time.
+
+*) Synchronous: clock is transmitted with the data.
+
+*) Аshynchronous:
+      • No dock is tranemitled
+      • transmitter with reciver clock speed for the data transmission (Baudrate)
+
+*)MBps → mega bit per second.
+
+UART:
+    *)UART is a Gerial connection.
+
+
+VART :
+universal
+Asynchronous Reciever (Transmittes.
+16/отрії
+USART :
+universal
+Synehronous recieves /trarmitte
+Duplex:
+Data
+can be
+transmitted
+and recieved
+simplex:* [EM madio]
+Data can be
+transmitted
+recieved
+only i.e.
+one
+only or direction only.
+Half duplex:
+Data can be Jseansmited
+in only one
+way at a time. [walky talky)
+full duplex:
+Data can be
+tranmitteol in booth ways
+[mobile]
+*) In
+asynchronous
+is Packed. between
+transmission each byte estart and stop
+280
+Bauderate
+word length
+Stop bit
+Parity.
+to toggle the
+key moving focus.
+then
+to move to the next interactive element on the page.
+delete
+ente
+mSoriaat
+JW
+N
+
+
+
+
+
+
+
+
+
