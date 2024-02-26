@@ -1,0 +1,30 @@
+GNU project:
+
+*)linux is not an operating System
+
+*)linux is monolithic Kernel
+there are two Paths:
+
+i) relative path  
+ii) absolute path.
+
+absolute path:
+  *)We reach thom the noot.
+relative Path:
+: ~ 1D, $ cD.../D1 /D2/ D3
+: ~S CD . /D1/D2/D3
+
+the New terminology in linux is i node the differance between inode and... (Parent or child directory).
+
+internal and External command.
+
+*) cd→ internal command
+*) ls → External command.
+
+Internal conmands and External commands ? 
+
+*)man cd → No manual entry for cd.
+
+*)man man → total a commands (9 Pages) 
+
+*)man hier → description of the file system hierarchy.
