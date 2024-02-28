@@ -19,3 +19,40 @@ Soume file
 •S assembly
 
 elf
+
+For one set architecture have many microarchitecture.
+
+Arm is not a chip manufacturing company" design
+
+
+Family can have multiple architecture for that can have multiple procusor.
+
+ARM architecture specifier
+
+at con how
+
+Multiple procellor
+
+Instruction set
+
+
+Register set
+
+interrupt
+
+Exception model
+
+Memory model
+
+Debug, Trace and profilines
+
+fioud point
+
+RISC- Reduced instruction set computer
+ARM Dowmentation
+
+- ARM [architecture reference manual]
+
+- TRM [ Technical reference manual]
+
+CIM [Configuration and integration manual] Soc datasheet.
