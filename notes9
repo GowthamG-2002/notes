@@ -1,0 +1,7 @@
+orphan-->chils is running , the parent is terminating zombie-->parent is running, child is terminating. 
+
+In zombie process that we have to kill the parent,killing the parent by finding the id (kill -9 ID) To avoid zombie process we use wait system call silver bullet -9 To kill zombie 
+
+1)kill -9 "process IDF"
+
+2)ctrl+c T
